@@ -1,0 +1,5 @@
+ What is Git, what is Github, and what is the difference between the two? - Git is a version control system designed to track changes on source code in development in a repository. Github is an online platform/website build around git to store files. The differences between the 2 are Git tracks project history, while github is a place where you can store the data on that project.
+ What is the difference between a local repository and a remote repository? - Local repo is a copy that is only on your computuer, Remote repo is a copy that exists on the internet(github.com)
+ What does the push command do in Git? - A push comanmand uploads tge local repo changes to the remote repo version.
+ What does the commit command do in Git? - Commit command saves the file changes in your local repository.
+ What is Github Desktop, & why are we using it? - Github desktop is an app taht you can use Git and Github at the same time without git commands in terminal. We use this to make simplify the process of using git.
